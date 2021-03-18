@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @chcolleoni
+- 👀 I’m interested in Java / React / Oracle Technologies
+- 🌱 I’m currently learning React and Serverless implementation, as well how to adopt microservices aproach
+- 💞️ I’m looking to collaborate on new and good projects
+- 📫 How to reach me https://www.linkedin.com/in/charles-colleoni-9248b618
